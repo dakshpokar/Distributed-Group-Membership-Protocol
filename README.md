@@ -1,6 +1,6 @@
 # MP2-Distributed-Systems
 
-This is a distributed group membership protocol system. The system is implemented using Go, leveraging concurrency and distributed processing across multiple nodes in a network.
+This is a distributed group membership protocol system. The system is implemented using Go, leveraging concurrency and distributed processing across multiple nodes in a network. This was done as a part of CS 425 (Distributed Systems) project.
 
 ## Project Setup for all machines
 
